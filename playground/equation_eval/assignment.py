@@ -1,5 +1,5 @@
 import sys
-# sys.path.insert(1, '/Users/dicrai/Projects/medium/importing_files_python/playground/operations')
+sys.path.insert(1, '/Users/dicrai/Projects/medium/importing_files_python/playground/operations')
 
 from addition import Addition
 from subtraction import Subtraction
