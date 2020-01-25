@@ -1,6 +1,6 @@
 # Importing Python Files
-<li><b>method_0</b>: <code>sys.path</code> style</li>
-<li><b>method_1</b>: <code>PYTHONPATH</code> environment variable style</li>
+<li><b>method_1</b>: <code>sys.path</code> style</li>
+<li><b>method_2</b>: <code>PYTHONPATH</code> environment variable style</li>
 <li><b>playground</b>: a small treat -- importing <code>class</code> </li>
 <br/>
 
